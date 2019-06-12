@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560366482 source:/home/teo/nstla/main.cpp
+	<iostream>
+	"nstlaManager.h"
+
+1560366512 /home/teo/nstla/include/nstlaManager.h
+
+1560367984 source:/home/teo/nstla/src/nstlaManager.cpp
+	"nstlaManager.h"
+	<iostream>
+
