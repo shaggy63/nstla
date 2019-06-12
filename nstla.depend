@@ -9,9 +9,13 @@
 	"nstlaManager.h"
 	<iostream>
 
-1560370280 source:/home/teo/poubelle/nstla/main.cpp
+1560370749 source:/home/teo/poubelle/nstla/main.cpp
 	<iostream>
-	"./include/nstlaManager.h"
+	"nstlaManager.h"
 
-1560369952 /home/teo/poubelle/nstla/include/nstlaManager.h
+1560370677 /home/teo/poubelle/nstla/include/nstlaManager.h
+
+1560370677 source:/home/teo/poubelle/nstla/src/nstlaManager.cpp
+	"nstlaManager.h"
+	<iostream>
 

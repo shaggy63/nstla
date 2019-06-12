@@ -14,9 +14,7 @@ nstlaManager::~nstlaManager()
 bool nstlaManager::outputChecker(){
     std::cout << "Processing done ! Do you want to keep the preprocessed file ? [Y/n]";
     std::string tmp = "Y";
-    //std::cin >> tmp;
-    //std::cout << "-------------" << std::endl << tmp;
-    bool more = true;
+
 
     getline(std::cin, tmp);
     if(tmp.empty())

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "./include/nstlaManager.h"
+#include "nstlaManager.h"
 
 int main()
 {
