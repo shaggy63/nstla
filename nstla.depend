@@ -23,5 +23,21 @@
 	<iostream>
 	"nstlaManager.h"
 
-1560422482 /home/teo/PROJETS/nstla/include/nstlaManager.h
+1560423432 /home/teo/PROJETS/nstla/include/nstlaManager.h
+
+1560455574 source:/home/teo/PROJETS/nstla/src/IPrecord.cpp
+	"IPrecord.h"
+
+1560455574 /home/teo/PROJETS/nstla/include/IPrecord.h
+
+1560456629 source:/home/teo/PROJETS/nstla/src/IPv4.cpp
+	"IPv4.h"
+	<string>
+
+1560456280 /home/teo/PROJETS/nstla/include/IPv4.h
+	<iostream>
+
+1560456320 source:/home/teo/PROJETS/nstla/src/nstlaManager.cpp
+	"nstlaManager.h"
+	<iostream>
 

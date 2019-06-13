@@ -31,7 +31,7 @@ bool nstlaManager::askKeepFile(){
             return true;
         default:
             std::cout << std::endl << "Bad option. Try again !" << std::endl;
-            return this->outputChecker();
+            return this->askKeepFile();
     }
 
 }
