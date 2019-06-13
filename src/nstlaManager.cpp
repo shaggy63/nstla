@@ -11,7 +11,7 @@ nstlaManager::~nstlaManager()
     //dtor
 }
 
-bool nstlaManager::outputChecker(){
+bool nstlaManager::askKeepFile(){
     std::cout << "Processing done ! Do you want to keep the preprocessed file ? [Y/n]";
     std::string tmp = "Y";
 

@@ -7,7 +7,7 @@ class nstlaManager
     public:
         nstlaManager();
         virtual ~nstlaManager();
-        bool outputChecker();
+        bool askKeepFile();
 
     protected:
 
